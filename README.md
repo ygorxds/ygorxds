@@ -1,4 +1,4 @@
-# 💫 SObre mim:
+# 💫 Sobre mim:
 Estudante de engenharia da computação, trabalho com Desenvolvimento de aplicações mobile e web, front,back e devOps
 
 
